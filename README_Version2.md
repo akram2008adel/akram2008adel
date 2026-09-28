@@ -42,7 +42,6 @@ I’m currently building projects in:
 
 ## Connect
 - GitHub: [github.com/akram2008adel](https://github.com/akram2008adel)
-- LinkedIn: [Add your LinkedIn link]
-- Email: [your-email@example.com]
+- Email: [stum201900585@gmail.com]
 
 > I’m building practical projects and learning by doing. 🚀
